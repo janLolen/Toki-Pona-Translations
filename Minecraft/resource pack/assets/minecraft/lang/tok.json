@@ -4839,7 +4839,7 @@
    "mco.download.failed": "󱤖󱤓󱤧󱥈",
    "mco.download.percent": "%s %%",
    "mco.download.preparing": "󱤴󱥷󱤖󱤓",
-   "mco.download.resourcePack.fail": "󱤴󱤘󱤂 󱤖󱤓󱤉󱥓󱥠󱤕!",
+   "mco.download.resourcePack.fail": "󱤴󱤘󱤂󱤖󱤓󱤉󱥓󱥠󱤕!",
    "mco.download.speed": "(%s/s)",
    "mco.download.speed.narration": "%s/s",
    "mco.download.title": "󱤴󱤖󱤓󱤉󱤰󱥝",
