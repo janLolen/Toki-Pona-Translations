@@ -6,7 +6,7 @@ Minecraft: Based on the official translation and on jan Poman's sitelen pona ver
 
 Minecraft Fabric mods:
 - Chat heads: In progress
-- Cloth config 2: In progress
+- Cloth config 2: Complete
 - Falling leaves: Planned
 - Jade: Planned
 - Mod menu: Complete
