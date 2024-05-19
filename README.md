@@ -2,7 +2,7 @@
 
 Rivals of Aether: Started
 
-Minecraft: Based on the official translation and on jan Poman's sitelen pona version. Complete
+Minecraft: Based on the official translation and on jan Poman's sitelen pona version. Complete, but may have mistakes
 
 Minecraft Fabric mods:
 - Chat heads: Complete
