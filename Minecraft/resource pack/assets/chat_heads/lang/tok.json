@@ -3,7 +3,7 @@
   "text.autoconfig.chat_heads.title": "󱤤󱥬",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText": "󱥄󱤆󱤉󱤬󱥍󱥬󱥍󱤑󱤂",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "󱥁󱤧󱤬󱤡󱥬󱤄󱤧󱤿󱥖",
-  "text.autoconfig.chat_heads.option.explanation": "\"󱤽UUID\"? \"󱥂Heuristic\"?",
+  "text.autoconfig.chat_heads.option.explanation": "\"󱤽UUID\"󱤊\"󱥂Heuristic\"󱤧󱥙",
   "text.autoconfig.chat_heads.option.explanation.@Tooltip": "󱥫󱤼󱤡󱤟󱤧󱥌󱤉󱥡󱥍󱤑󱥬󱥩󱤴󱤙󱤽UUID󱥆\n󱥨󱤟󱤼󱤧󱥌󱤂\n󱥆󱤧󱤘󱥌󱤉󱤽󱦣. 󱥁󱤡󱤴󱥷󱤙󱥂Heuristic\n󱥂Heuristic󱤡󱤴󱤃󱥡󱤉󱤑󱤙󱥂󱥍󱤬󱤏󱥬\n󱥁󱤧󱤘󱥌󱤉󱥡󱦣󱤡󱤑󱤧󱤘󱤓󱤉󱤤󱥍󱤑󱤆",
   "text.autoconfig.chat_heads.option.senderDetection": "Sender Detection",
   "text.autoconfig.chat_heads.option.senderDetection.@Tooltip": "For most servers \"UUID and heuristic\" works fine.\nIf the server sends fake UUIDs, \"Heuristic only\"\nhas to be used.",
