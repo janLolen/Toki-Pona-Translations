@@ -3644,9 +3644,9 @@
 3805 = "This concludes the Pomme tutorial!"
 
 //---- OLYMPIA TUTORIAL
-3806 = "Welcome to the Olympia tutorial!"
-3807 = "Olympia harnesses the power of crystals to store energy and unleash it in bursts of speed and strength."
-3808 = "Her NSPECIAL (which she has named ''Brilliant Diamond'') is her longest range move, shooting a gemstone shard that forms a larger crystal on hit."
+3806 = "o kama pona tawa pana sona pi utala pi jan Olympia!"
+3807 = "jan Olympia li awen e wawa kepeken wawa pi kiwen suno li pana wawa e ona kepeken tenpo pi lili mute."
+3808 = "utala NSPECIAL ona li jo e nimi ''kiwen suwi pi suno wawa''. ona li ken pana e ona tawa jan pi weka mute. utala ni la jan Olympia li pana e kipisi kiwen. kupisi li lon poka jan la kipisi lili li kama kipisi suli."
 3809 = "You can also form the crystal yourself by pressing NSPECIAL again while the projectile is still out."
 3810 = "Try hitting me with NSPECIAL or just form the crystal yourself."
 3811 = "Beautiful!"
@@ -3692,9 +3692,9 @@
 //-------------------------
 
 4000 = "@12"
-4001 = "Frostbear Cub"
+4001 = "soweli lete lili"
 4002 = "Sunny"
-4003 = "Kraggling"
+4003 = "Kragg lili"
 4004 = "Tommy Prickles"
 4005 = "Dundee"
 4006 = "Phillip"
