@@ -8,7 +8,7 @@ Minecraft Fabric mods:
 - Chat heads: Complete
 - Cloth config 2: Complete
 - Falling leaves: Planned
-- Jade: Planned
+- Jade: In progress
 - Mod menu: Complete
 - Sodium: In progress
 - Visuality: In progress
