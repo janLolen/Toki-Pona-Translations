@@ -27,7 +27,7 @@
   "sodium.options.biome_blend.value": "󱥼%s",
   "sodium.options.biome_blend.tooltip": "The distance (in blocks) which biome colors are smoothly blended across. Using higher values will greatly increase the amount of time it takes to load or update chunks, for diminishing improvements in quality.",
   "sodium.options.entity_distance.tooltip": "The render distance multiplier used by entity rendering. Smaller values decrease, and larger values increase, the maximum distance at which entities will be rendered.",
-  "sodium.options.entity_shadows.tooltip": "If enabled, basic shadows will be rendered beneath mobs and other entities.",
+  "sodium.options.entity_shadows.tooltip": "󱥁󱤧󱤬󱤡󱥏󱤨󱤧󱤬󱤅󱤌󱥩",
   "sodium.options.vignette.name": "󱥠󱥏",
   "sodium.options.vignette.tooltip": "󱥁󱤧󱤬󱤡󱥞󱤬󱥏󱤡󱥠󱥏󱤧󱤬󱤡󱥆󱤧󱥏󱤉󱥠󱤧󱥵󱤉󱥎󱥞",
   "sodium.options.mipmap_levels.tooltip": "Controls the number of mipmaps which will be used for block model textures. Higher values provide better rendering of blocks in the distance, but could adversely affect performance with resource packs that use many animated textures.",
