@@ -29,7 +29,7 @@
   "sodium.options.entity_distance.tooltip": "The render distance multiplier used by entity rendering. Smaller values decrease, and larger values increase, the maximum distance at which entities will be rendered.",
   "sodium.options.entity_shadows.tooltip": "If enabled, basic shadows will be rendered beneath mobs and other entities.",
   "sodium.options.vignette.name": "󱥠󱥏",
-  "sodium.options.vignette.tooltip": "If enabled, a vignette effect will be applied when the player is in darker areas, which makes the overall image darker and more dramatic.",
+  "sodium.options.vignette.tooltip": "󱥁󱤧󱤬󱤡󱥞󱤬󱥏󱤡󱥠󱥏󱤧󱤬󱤡󱥆󱤧󱥏󱤉󱥠󱤧󱥵󱤉󱥎󱥞",
   "sodium.options.mipmap_levels.tooltip": "Controls the number of mipmaps which will be used for block model textures. Higher values provide better rendering of blocks in the distance, but could adversely affect performance with resource packs that use many animated textures.",
   "sodium.options.use_block_face_culling.name": "󱥄󱤿Culling󱤉󱥟󱥼",
   "sodium.options.use_block_face_culling.tooltip": "󱥁󱤧󱤬󱤡󱥟󱥼󱤧󱥩󱥞󱤡󱥁󱥨󱤡󱤎󱤧󱥌󱤉󱥠󱥆. 󱥁󱤧󱥶󱤉󱥟󱤼󱤬󱥫󱥇󱤡󱤎󱤧󱤙󱥲󱤨. 󱥁󱤧󱤘󱤍󱥩󱥓󱥠󱤕. 󱤯󱤧󱤬󱥼󱤡󱥄󱤂󱤉󱤿󱥁",
