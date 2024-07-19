@@ -17,7 +17,7 @@
   "sodium.options.view_bobbing.tooltip": "󱥁󱤧󱤬󱤡󱥠󱤧󱥩󱥚󱤅. 󱥩󱤧󱤐󱤉󱥎󱥞󱤡󱥞󱥷󱤂󱤉󱥁",
   "sodium.options.attack_indicator.tooltip": "󱥁󱤧󱤤󱤉󱥁: 󱥠󱥍󱥫󱥱󱤧󱤬󱥙",
   "sodium.options.autosave_indicator.tooltip": "󱥁󱤧󱤬󱤡󱤻󱤧󱤈󱤉󱤰󱤡󱥆󱤧󱥬󱤉󱥁󱥩󱥞󱤙󱥠󱤨",
-  "sodium.options.graphics_quality.tooltip": "The default graphics quality controls some legacy options and is necessary for mod compatibility. If the options below are left to \"Default\", they will use this setting.",
+  "sodium.options.graphics_quality.tooltip": "󱤿󱥠󱥇󱤧󱤤󱤉󱤿󱦢. 󱥸󱤆󱤧󱤘󱥷󱤉󱤿󱦢. 󱤿󱤇󱤅󱤧󱤿󱥇󱤡󱥆󱤧󱤙󱤿󱥁",
   "sodium.options.clouds_quality.tooltip": "The quality level used for rendering clouds in the sky. Even though the options are labeled \"Fast\" and \"Fancy\", the effect on performance is negligible.",
   "sodium.options.weather_quality.tooltip": "Controls the distance that weather effects, such as rain and snow, will be rendered.",
   "sodium.options.leaves_quality.name": "󱤪󱤗",
