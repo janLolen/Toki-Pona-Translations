@@ -1,6 +1,6 @@
 import json
 
-with open('tok_old.json', encoding='UTF-8') as old:
+with open('en_us.json', encoding='UTF-8') as old:
     with open('tok.json', encoding='UTF-8') as new:
         oata = json.load(old)
         nata = json.load(new)
