@@ -18,7 +18,7 @@
 	"gui.xaero_howto_select" : "󱥞󱥎󱤉󱤪󱤙󱥀󱤽󱥮󱥍󱤎󱤭󱤡󱥆󱤧󱤬󱥷󱥞",
 	"gui.xaero_howto_drag" : "󱥞󱤈󱥎󱤉󱤪󱤙󱥀󱤽󱥮󱥍󱤎󱤭󱤡󱥞󱤘󱥩󱤉󱥆",
 	"gui.xaero_howto_deselect" : "󱥞󱥎󱤉󱤪󱤙󱥀󱤽󱥮󱥍󱤎󱤭󱤡󱥆󱤧󱥐󱤬󱥷󱥞",
-	"gui.xaero_howto_center" : "Press \"C\" to center or uncenter the selected interface.",
+	"gui.xaero_howto_center" : "󱥄󱥎󱤉󱥀[C]󱤡 to center or uncenter the selected interface.",
 	"gui.xaero_different_centered" : "Some interfaces have a different centered look.",
 	"gui.xaero_howto_flip" : "Press \"F\" to flip or unflip the selected interface.",
 	"gui.xaero_howto_settings" : "Press \"S\" to quickly access settings of the selected interface.",
