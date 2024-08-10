@@ -1,5 +1,5 @@
 {
-	"modmenu.nameTranslation.jade": "󱥸[Jade]",
+	"modmenu.nameTranslation.jade": "Jade",
 	"modmenu.descriptionTranslation.jade": "󱥁󱤧󱥌󱤉󱥡󱥍󱤌󱥍󱤬󱤮󱥞",
 	"tooltip.jade.crop_growth": "󱤼󱥍󱤖󱥣: %s",
 	"tooltip.jade.crop_mature": "󱥣",
@@ -223,7 +223,7 @@
 	"config.jade.plugin_minecraft.enchantment_power": "Enchantment Power",
 	"config.jade.plugin_minecraft.enchantment_power_desc": "Show the enchantment power of the block.",
 	"config.jade.plugin_minecraft.total_enchantment_power": "Total Enchantment Power",
-	"jade.ench_power": "Ench Power: %s",
+	"jade.ench_power": "󱥵󱤾󱥍󱥣%s",
 	"config.jade.plugin_minecraft.player_head": "Player Head",
 	"config.jade.plugin_minecraft.profession": "Villager Profession",
 	"config.jade.plugin_minecraft.item_tooltip": "Item Description",
