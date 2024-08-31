@@ -11,6 +11,7 @@ Minecraft Fabric mods:
 - Jade: In progress
 - Mod menu: Complete
 - Configured: Complete
+- Yet Another Config Lib V3: Complete
 - Sodium: In progress
 - Visuality: In progress
 - Xaero's minimap and world map: In progress
