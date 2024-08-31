@@ -10,6 +10,7 @@ Minecraft Fabric mods:
 - Falling leaves: Planned
 - Jade: In progress
 - Mod menu: Complete
+- Configured: Complete
 - Sodium: In progress
 - Visuality: In progress
 - Xaero's minimap and world map: In progress
