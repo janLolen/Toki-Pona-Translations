@@ -4,19 +4,19 @@
 0 = "TOKI PONA"
 
 //---- Various menu texts
-1 = "BACK"
-2 = "FORFEIT" // button to forfeit the current match (online)
-3 = "ON"
-4 = "OFF"
-5 = "QUIET"
-6 = "TEAMS"
-7 = "STAGE MODE"
-8 = "MUSIC"
-9 = "TEAM" // team attack btn (1)
-10 = "ATTACK" // team attack btn (2)
+1 = "WEKA"
+2 = "O WEKA" // button to forfeit the current match (online)
+3 = "LON"
+4 = "ALA"
+5 = "MU LILI"
+6 = "KULUPU"
+7 = "NASIN MA"
+8 = "KALAMA MUSI"
+9 = "WAWA" // team attack btn (1)
+10 = "KULUPU" // team attack btn (2)
 11 = "BEST `1 OUT OF `2"
-12 = "NONE" // No Profile (main menu)
-13 = "GUEST" // Guest (css menu)
+12 = "ALA" // No Profile (main menu)
+13 = "JAN SIN" // Guest (css menu)
 14 = "EQUIP RUNES" // css abyss runes
 15 = "Open Sound Test" // css music note button
 16 = "control stick" // term for Analog Stick on PC & Nintendo Switch
@@ -150,7 +150,7 @@
 131 = "Turn on Abyss Mode?"
 132 = "Turn off Abyss Mode?"
 133 = "Do you want to stay in\nthe lobby for a rematch?"
-134 = "CHANGE RULES"
+134 = "NASIN MUSI"
 135 = "`1 wants to change rules:"
 136 = "The rules are changing:"
 137 = "Enter PIN"
@@ -288,27 +288,27 @@
 275 = "To unlock, purchase\nCross Blitz\non Steam."
 
 //----
-290 = "READY TO FIGHT"
-291 = "CANCEL READY" // cancel the Ready state
-292 = "PRESS" // "press start"
+290 = "UTALA O OPEN"
+291 = "o open ala" // cancel the Ready state
+292 = "o luka e" // "press start"
 293 = ""
 294 = ""
 295 = ""
 296 = ""
 
 //---- Popup Button Choices
-297 = "YES"
-298 = "NO"
-299 = "OK"
+297 = "wile"
+298 = "wile ala" 
+299 = "pona"
 
 //-------------------
 // Main Menu Buttons
 //-------------------
 
 //---- Top Menu
-300 = "lon ni"
+300 = "musi lon ni"
 301 = "sina ken jan wan. sina en jan ante li ken musi lon tomo sama!"
-302 = "lon weka"
+302 = "musi lon weka"
 303 = "sina ken utala e jan pi lon ma ante ale!"
 304 = "nasin"
 305 = "musi ni li ken kama pona tawa nasin sina."
@@ -322,14 +322,14 @@
 //---- Local Sub-Menu
 312 = "utala jan" // big text
 313 = "jan tu, jan tu wan, jan tu tu, kulupu tu."
-314 = "Solo Modes"
-315 = "Play Story, Abyss, Practice, or Tutorial Mode."
-316 = "Versus Settings"
-317 = "Adjust various gameplay modifiers for Versus Mode."
-556 = "Tether"
-557 = "BONUS: Play the hotly anticipated sports game, RIVALS OF TETHER!"
-318 = "Back"
-319 = "Return to the Main Menu."
+314 = "jan wan taso"
+315 = "pali suli, lupa nasa, kama sona, pana sona."
+316 = "nasin utala."
+317 = "o ante e nasin pi utala jan."
+556 = "musi linja"
+557 = "o musi kepeken sike musi pi lon linja palisa a!"
+318 = "weka"
+319 = "o tawa lipu open."
 
 //---- Online Sub-Menu
 320 = "RANKED"
@@ -528,18 +528,18 @@
 477 = "@443"
 
 //---- Solo Modes
-478 = "Story" // big text
-479 = "Untangle the mysterious conflicts in the world of Aether."
-480 = "Abyss" // big text
-481 = "Defeat shadowy creatures and power up your fighters in the Abyss."
-482 = "Practice"
-483 = "Train with a CPU Player and experiment with gameplay variables."
-484 = "Tutorial" // big text
-485 = "Learn the ins and outs of Rivals of Aether!"
+478 = "pali suli" // big text
+479 = "o kama sona e utala mute pi ma Aether."
+480 = "lupa nasa" // big text
+481 = "o moli e monsuta nasa o kama wawa lon lupa nasa."
+482 = "kama sona"
+483 = "jan ilo utala li pana e sona tawa sina. sina ken alasa kepeken ijo utala."
+484 = "pana sona" // big text
+485 = "o kama sona suli e ale utala a!"
 486 = "@318"
 487 = "@381"
-488 = "Main Profile"
-489 = "Select the profile to use in solo and online play."
+488 = "lipu jan nanpa wan"
+489 = "jan li open musi la, ale la ona li kepeken lipu jan ni."
 
 //---- Online Stats and Options
 490 = "Ranked Leaderboard"
@@ -686,8 +686,8 @@
 620 = "GATEKEEPERS"
 621 = "HOLD" // Pause setting
 //---- Stage Types:
-622 = "AETHER"
-623 = "BASIC"
+622 = "SEWI"
+623 = "MA"
 //----
 624 = "REGION FILTERS"
 625 = "SAVE"
@@ -713,23 +713,23 @@
 649 = "LVL. " // AI level
 
 //---- CSS profile buttons
-650 = "GUEST"
-651 = "NEW"
+650 = "JAN SIN"
+651 = "O PANA E NIMI"
 
 //---- CSS gamepad buttons
-652 = "DEFAULT"
-653 = "CUSTOM"
+652 = "NASIN OPEN"
+653 = "NASIN SINA"
 
 //---- CSS various buttons
-654 = "PLAYTEST"
-655 = "SET ALL"
+654 = "O ALASA"
+655 = "O NASIN E ALE"
 656 = "@652"
-657 = "COMPLETE"
+657 = "PINI"
 
 //---- Gamepad room buttons
-658 = "CONTROLS"
-659 = "PROFILE"
-660 = "PLAYTEST"
+658 = "ILO LAWA"
+659 = "LIPU JAN"
+660 = "O ALASA"
 
 //--------------------
 
@@ -1015,11 +1015,11 @@
 935 = "PLAYTIME"
 
 //---- Team Buttons
-936 = "RED"
-937 = "BLUE"
-938 = "HMN"
-939 = "CPU"
-940 = "OFF"
+936 = "LOJE"
+937 = "LASO"
+938 = "JAN"
+939 = "ILO"
+940 = "ALA"
 
 //---- Stage Select texts
 941 = "SHOW DATA"
@@ -1045,8 +1045,8 @@
 961 = "ARDENT\nRIVAL"
 962 = "COUNTERPICK"
 963 = "Ban a Stage!"
-964 = "MAIN STAGES"
-965 = "CUSTOM STAGES"
+964 = "MA PI MUSI NI"
+965 = "MA PI JAN ANTE"
 966 = "by"
 967 = "" // reserved
 968 = "BAN STAGE"
@@ -2276,41 +2276,41 @@
 2353 = "Olympia can brace for impact with Down Special, able to shrug off a hit and return with a dodge or counterattack."
 
 //---- Stage Names [2400-2459]
-2400 = "Locked"
-2401 = "Random"
-2402 = "Fire Capital"
-2403 = "Air Armada"
-2404 = "The Rock Wall"
-2405 = "Merchant Port"
-2406 = "Treetop Lodge"
-2407 = "Blazing Hideout"
-2408 = "Tower of Heaven"
-2409 = "Tempest Peak"
-2410 = "Frozen Fortress"
-2411 = "Aethereal Gates"
-2412 = "The Endless Abyss"
+2400 = "ken ala ante"
+2401 = "tan wile ala"
+2402 = "ma tomo seli"
+2403 = "tomo tawa waso"
+2404 = "sinpin kiwen"
+2405 = "ma esun"
+2406 = "tomo kasi"
+2407 = "tomo len seli"
+2408 = "tomo sewi"
+2409 = "nena ma pi kon wawa"
+2410 = "tomo suli lete"
+2411 = "lupa sinpin sewi"
+2412 = "lupa nasa pi pini ala"
 2413 = ""
-2414 = "The CEO Ring"
-2415 = "The Spirit Tree"
-2416 = "The Tutorial Grid X"
-2417 = "Neo Fire Capital"
-2418 = "The Swampy Estuary"
-2419 = "The Forest Floor"
-2420 = "Julesvale"
+2414 = "ma utala CEO"
+2415 = "kasi pi kon jan"
+2416 = "ma pi pana sona"
+2417 = "ma tomo seli sin"
+2418 = "ma kasi telo"
+2419 = "anpa pi ma kasi"
+2420 = "ma Julesvale"
 2421 = "Troupple Pond"
 2422 = "Practice Room"
 2423 = "Aether High"
-2424 = "Pridemoor Keep"
+2424 = "tomo suli Pridemoor"
 2425 = "Frozen Gates"
 2426 = "The Tutorial Grid"
-2427 = "The RoA Ring"
+2427 = "tomo utala RoA"
 2428 = ""
 2429 = "Tetherball Court"
 2430 = ""
 2431 = ""
 2432 = "Neo Blazing Rail"
 2433 = "Highdive Hideaway"
-2434 = "Neo Julesvale"
+2434 = "ma Julesvale sin"
 2435 = "Crystal Oasis"
 2436 = "Diamond Grove"
 2437 = "Badger Co. Mines"
@@ -3847,15 +3847,15 @@
 // Rules Popup [4200-4219]
 //-------------------------
 
-4200 = "STOCK"
-4201 = "TIME"
-4202 = "TEAMS"
-4203 = "TEAM ATTACK"
+4200 = "MUTE MOLI"
+4201 = "TENPO"
+4202 = "KULUPU"
+4203 = "UTALA KULUPU"
 4204 = "RANDOM STAGES"
-4205 = "AETHER STAGES"
-4206 = "ABYSS MODE"
-4207 = "TURBO"
-4208 = "WORKSHOP"
+4205 = "MA SEWI"
+4206 = "NASIN LUPA"
+4207 = "NASIN WAWA"
+4208 = "NAMAKO PI LIPU STEAM"
 4209 = "TOURNEY MODE"
 4210 = "TOURNEY BEST OF"
 4211 = "PAUSE"
